@@ -1,0 +1,1 @@
+<p>&copy; 2019, {LBL="organization"} {LBL="object"}</p>

@@ -1,0 +1,1 @@
+<li><div class="format">{EXTENSION}</div> ({LBL="up_to"} <div class="value">{EXTENSION_SIZE}</div> {LBL="file_size_unit"})</li>

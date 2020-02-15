@@ -1,0 +1,4 @@
+<Files "db_credentials.php">
+Order allow,deny
+Deny from All
+</Files>
